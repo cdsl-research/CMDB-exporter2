@@ -27,6 +27,10 @@ Listening on 0.0.0.0:8000...
 ```
 
 以下のように表示されて入ればOKです．
+
+
+
+
 <img width="483" alt="スクリーンショット 2024-12-18 11 44 02" src="https://github.com/user-attachments/assets/a6ee041c-ea1f-46fa-80bf-4f71cc25646a" />
 
 
