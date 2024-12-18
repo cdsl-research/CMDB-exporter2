@@ -26,7 +26,7 @@ $ python3 cmdb-exporter.py
 Listening on 0.0.0.0:8000...
 ```
 
-以下のように表示されて入ればOKです．
+以下のように表示されていればOKです．
 
 
 
