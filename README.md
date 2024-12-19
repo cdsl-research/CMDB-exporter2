@@ -29,7 +29,7 @@ Listening on 0.0.0.0:8000...
 以下のように表示されていればOKです．
 
 
-<img width="477" alt="スクリーンショット 2024-12-19 14 29 22" src="https://github.com/user-attachments/assets/46ed59fd-3c6b-49e1-b3ca-090912c28c5a" />
+<img width="633" alt="スクリーンショット 2024-12-19 14 31 43" src="https://github.com/user-attachments/assets/fe99624e-3e89-4a43-baba-6edabded925c" />
 
 
 
